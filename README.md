@@ -12,17 +12,17 @@
 
 虽然我做的是一个很平常的一个多功能计算器，但是我和我同伴组成的工作室有信心从他开始为用户提供更好的app！
 
-                               制作匆匆，记录潦草
-                                敬请见谅
-                                谢谢
-                                BY LEAF STUDIO
+                                制作匆匆，记录潦草
+                                敬请见谅
+                                谢谢
+                                BY LEAF STUDIO
 
 
 
 ## 更新日志
-2020年5月4日             Leaf calc for Android MUI框架版第一个版本发布
+2020年5月4日 Leaf calc for Android MUI框架版第一个版本发布
 
-2020年5月5日             Leaf calc for Android MUI demo v2.0 主要修正UI问题
+2020年5月5日 Leaf calc for Android MUI demo v2.0 主要修正UI问题
 # 繁體中文
 你目前看到的是由Leaf Studio工作室（一群“呆呆”的學生）所寫的Leaf calc for Android demo版本！
 我們很感謝你們能夠翻到這個倉庫，更希望你們能夠高抬貴手，為我們的項目點個star，鼓勵鼓勵我們，謝謝！
