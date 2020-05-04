@@ -71,4 +71,7 @@ May 5, 2020 Leaf calc for Android MUI demo v2.0 mainly fixes UI problems
 # 下载 下載 download
 ## Leaf calc for Android demo v2.0
 https://ww.lanzous.com/ic9ptgb
-
+#
+如出现翻译有问题，请在Issues中提出或者发送给leaf_studio_bugs@foxmail.com 报告！
+如出現翻譯有問題，請在Issues中提出或者發送給leaf_studio_bugs@foxmail.com 報告！
+If there is a problem with translation, please raise it in Issues or send it to leaf_studio_bugs@foxmail.com to report!
