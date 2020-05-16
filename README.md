@@ -23,6 +23,8 @@
 2020年5月4日 Leaf calc for Android MUI框架版第一个版本发布
 
 2020年5月5日 Leaf calc for Android MUI demo v2.0 主要修正UI问题
+
+2020年5月16日 Leaf calc for Android MUI demo v2.5.0 新增“关于”选项
 # 繁體中文
 你目前看到的是由Leaf Studio工作室（一群“呆呆”的學生）所寫的Leaf calc for Android demo版本！
 我們很感謝你們能夠翻到這個倉庫，更希望你們能夠高抬貴手，為我們的項目點個star，鼓勵鼓勵我們，謝謝！
@@ -45,6 +47,8 @@
 2020年5月4日 Leaf calc for Android MUI框架版第一個版本發布
 
 2020年5月5日 Leaf calc for Android MUI demo v2.0 主要修正UI問題
+
+2020年5月16日 Leaf calc for Android MUI demo v2.5.0 新增“關於”選項
 # English
 What you are currently seeing is the Leaf calc for Android demo version written by Leaf Studio (a group of "dull" students)!
 We are very grateful that you can turn over to this warehouse, and we hope you can raise your hand and order a star for our project, encourage and encourage us, thank you!
@@ -68,8 +72,9 @@ May 4, 2020 The first version of Leaf calc for Android MUI framework version is 
 
 May 5, 2020 Leaf calc for Android MUI demo v2.0 mainly fixes UI problems
 
+May 16, 2020 Leaf calc for Android MUI demo v2.5.0 adds "About" option
 # 下载 下載 download
-## Leaf calc for Android demo v2.0
+## Leaf calc for Android demo v2.5.0
 https://ww.lanzous.com/ic9ptgb
 #
 如出现翻译有问题，请在Issues中提出或者发送给leaf_studio_bugs@foxmail.com 报告！
